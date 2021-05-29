@@ -1,0 +1,64 @@
+2021-04-21 07:49:25,056 I am starting my program
+2021-04-21 07:49:25,404 This is a warning
+2021-04-21 07:49:25,781 this is an error
+2021-04-21 07:52:38,743 division by zero was tried4,0
+2021-04-21 07:52:38,744 division by zero
+2021-04-21 07:53:00,807 division by zero was tried4,0
+2021-04-21 07:53:00,807 division by zero
+2021-04-21 07:53:00,808 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-4d155bd500bb>", line 3, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-21 07:53:20,459 division by zero was tried with variables : 4,0
+2021-04-21 07:53:20,459 division by zero
+2021-04-21 07:53:20,459 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-19-555bf81d59cb>", line 3, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-21 07:55:32,976 division by zero was tried with variables : 4,0
+2021-04-21 07:55:32,976 division by zero
+2021-04-21 07:55:32,976 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-21-875547cc9452>", line 3, in test1
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-21 08:06:01,828 I am starting my program
+2021-04-21 08:06:54,127 I am starting my program
+2021-04-21 08:06:54,127 This is a warning
+2021-04-21 08:06:54,128 This is a error
+2021-04-21 08:06:54,128 this is a exception
+NoneType: None
+2021-04-21 08:07:13,050 this is critical
+2021-04-21 08:16:54,412 1,2,3,4,5,6,7,8
+2021-04-21 08:18:41,907 1
+2021-04-21 08:18:41,907 2
+2021-04-21 08:18:41,907 3
+2021-04-21 08:18:41,908 4
+2021-04-21 08:18:41,908 5
+2021-04-21 08:18:41,908 7
+2021-04-21 08:18:41,908 8
+2021-04-21 08:18:41,909 9
+2021-04-21 08:18:41,909 0
+2021-04-21 08:18:41,909 11
+2021-04-21 08:18:41,909 12
+2021-04-21 08:18:41,910 14
+2021-04-21 08:18:41,910 76
+2021-04-21 08:20:55,145 1
+2021-04-21 08:20:55,146 2
+2021-04-21 08:20:55,146 3
+2021-04-21 08:20:55,146 4
+2021-04-21 08:20:55,146 5
+2021-04-21 08:20:55,147 6
+2021-04-21 08:20:55,147 21
+2021-04-21 08:21:09,839 1
+2021-04-21 08:21:09,840 2
+2021-04-21 08:21:09,841 3
+2021-04-21 08:21:09,841 4
+2021-04-21 08:21:09,841 10
+2021-04-21 08:21:27,498 1
+2021-04-21 08:21:27,499 2
+2021-04-21 08:21:27,500 3
+2021-04-21 08:21:27,500 4
+2021-04-21 08:21:27,500 10

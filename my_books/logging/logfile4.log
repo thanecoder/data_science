@@ -1,0 +1,28 @@
+2021-04-22 07:49:10,965 root INFO this is test code for log
+2021-04-22 07:49:10,967 logger1.area1 INFO this is test code for log
+2021-04-22 07:49:10,970 logger2.area2 DEBUG this is another test code for log
+2021-04-22 07:49:10,971 logger1.area1 INFO this is another test code for log
+2021-04-22 08:00:26,336 root INFO this is test code for log
+2021-04-22 08:00:26,338 logger1.area1 INFO this is test code for log
+2021-04-22 08:00:26,339 logger2.area2 DEBUG this is another test code for log
+2021-04-22 08:00:26,339 logger1.area1 INFO this is another test code for log
+2021-04-22 08:00:35,922 root INFO this is test code for log
+2021-04-22 08:00:35,927 logger1.area1 INFO this is test code for log
+2021-04-22 08:00:35,929 logger2.area2 DEBUG this is another test code for log
+2021-04-22 08:00:35,930 logger1.area1 INFO this is another test code for log
+2021-04-22 08:03:07,221 root INFO this is test code for log
+2021-04-22 08:03:07,227 logger1.area1 INFO this is test code for log
+2021-04-22 08:03:07,231 logger2.area2 INFO this is another test code for log
+2021-04-22 08:03:07,234 logger1.area1 INFO this is another test code for log
+2021-04-22 08:03:17,091 root INFO this is test code for log
+2021-04-22 08:03:17,096 logger1.area1 INFO this is test code for log
+2021-04-22 08:03:17,099 logger2.area2 INFO this is another test code for log
+2021-04-22 08:03:17,111 logger1.area1 INFO this is another test code for log
+2021-04-22 08:03:22,189 root INFO this is test code for log
+2021-04-22 08:03:22,194 logger1.area1 INFO this is test code for log
+2021-04-22 08:03:22,198 logger2.area2 DEBUG this is another test code for log
+2021-04-22 08:03:22,206 logger1.area1 INFO this is another test code for log
+2021-04-22 08:03:33,416 root INFO this is test code for log
+2021-04-22 08:03:33,423 logger1.area1 INFO this is test code for log
+2021-04-22 08:03:33,428 logger2.area2 INFO this is another test code for log
+2021-04-22 08:03:33,449 logger1.area1 INFO this is another test code for log

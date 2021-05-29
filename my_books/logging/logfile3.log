@@ -1,0 +1,56 @@
+2021-04-21 08:31:53,191 DEBUG pickle loaded: /home/paritosh/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2021-04-21 08:31:53,228 DEBUG pickle loaded: /home/paritosh/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2021-04-21 08:31:56,615 DEBUG diff parser start
+2021-04-21 08:31:56,615 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:31:56,615 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:31:56,616 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:31:56,616 DEBUG diff parser end
+2021-04-21 08:31:56,636 DEBUG pickle loaded: /home/paritosh/anaconda3/lib/python3.8/logging/__init__.py
+2021-04-21 08:32:37,466 DEBUG diff parser start
+2021-04-21 08:32:37,466 DEBUG line_lengths old: 1; new: 2
+2021-04-21 08:32:37,466 DEBUG -> code[replace] old[1:1] new[1:2]
+2021-04-21 08:32:37,467 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2021-04-21 08:32:37,467 DEBUG diff parser end
+2021-04-21 08:33:52,109 DEBUG diff parser start
+2021-04-21 08:33:52,110 DEBUG line_lengths old: 2; new: 1
+2021-04-21 08:33:52,110 DEBUG -> code[replace] old[1:2] new[1:1]
+2021-04-21 08:33:52,110 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:33:52,110 DEBUG diff parser end
+2021-04-21 08:34:00,579 DEBUG diff parser start
+2021-04-21 08:34:00,580 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:34:00,580 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:34:00,581 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:34:00,581 DEBUG diff parser end
+2021-04-21 08:34:08,959 DEBUG diff parser start
+2021-04-21 08:34:08,959 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:34:08,959 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:34:08,960 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:34:08,960 DEBUG diff parser end
+2021-04-21 08:34:20,231 DEBUG diff parser start
+2021-04-21 08:34:20,231 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:34:20,231 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:34:20,232 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:34:20,232 DEBUG diff parser end
+2021-04-21 08:34:22,921 DEBUG diff parser start
+2021-04-21 08:34:22,922 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:34:22,922 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:34:22,922 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:34:22,923 DEBUG diff parser end
+2021-04-21 08:34:35,122 INFO this is test code for log
+2021-04-21 08:35:11,874 DEBUG diff parser start
+2021-04-21 08:35:11,875 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:35:11,875 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:35:11,875 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:35:11,876 DEBUG diff parser end
+2021-04-21 08:35:13,646 DEBUG diff parser start
+2021-04-21 08:35:13,646 DEBUG line_lengths old: 1; new: 1
+2021-04-21 08:35:13,646 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-04-21 08:35:13,647 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-04-21 08:35:13,647 DEBUG diff parser end
+2021-04-21 08:36:40,844 INFO this is test code for log
+2021-04-21 08:36:40,847 DEBUG this is another test code for log
+2021-04-21 08:36:40,847 INFO this is another test code for log
+2021-04-21 08:41:44,246 root INFO this is test code for log
+2021-04-21 08:41:45,092 logger1.area1 INFO this is test code for log
+2021-04-21 08:41:45,094 logger2.area2 DEBUG this is another test code for log
+2021-04-21 08:41:45,094 logger1.area1 INFO this is another test code for log
